@@ -1,0 +1,74 @@
+[
+    {
+        "id_venta": "V001",
+        "identificacion_usuario": "0704640804",
+        "codigo_producto": "1234",
+        "cantidad": 5,
+        "total": 5.0,
+        "fecha": "2026-08-30 12:06"
+    },
+    {
+        "id_venta": "V002",
+        "identificacion_usuario": "1103924583",
+        "codigo_producto": "12345",
+        "cantidad": 1,
+        "total": 2.0,
+        "fecha": "si"
+    },
+    {
+        "id_venta": "V003",
+        "identificacion_usuario": "0704715325",
+        "codigo_producto": "3454",
+        "cantidad": 2,
+        "total": 10.0,
+        "fecha": "2026-09-12 15:26"
+    },
+    {
+        "id_venta": "V004",
+        "identificacion_usuario": "0703271577",
+        "codigo_producto": "4536",
+        "cantidad": 1,
+        "total": 1.5,
+        "fecha": "2026-09-12 15:30"
+    },
+    {
+        "id_venta": "V005",
+        "identificacion_usuario": "U001",
+        "codigo_producto": "3454",
+        "cantidad": 2,
+        "total": 10.0,
+        "fecha": "27/09/2026"
+    },
+    {
+        "id_venta": "V006",
+        "identificacion_usuario": "U002",
+        "codigo_producto": "4536",
+        "cantidad": 3,
+        "total": 4.5,
+        "fecha": "27/09/2026"
+    },
+    {
+        "id_venta": "V007",
+        "identificacion_usuario": "U002",
+        "codigo_producto": "5675",
+        "cantidad": 5,
+        "total": 10.0,
+        "fecha": "27/09/2026"
+    },
+    {
+        "id_venta": "V008",
+        "identificacion_usuario": "U002",
+        "codigo_producto": "5675",
+        "cantidad": 3,
+        "total": 6.0,
+        "fecha": "27/09/2026"
+    },
+    {
+        "id_venta": "V009",
+        "identificacion_usuario": "U004",
+        "codigo_producto": "4535",
+        "cantidad": 5,
+        "total": 7.5,
+        "fecha": "03/10/2026"
+    }
+]

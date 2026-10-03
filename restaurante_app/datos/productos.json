@@ -1,0 +1,63 @@
+[
+    {
+        "codigo": "1234",
+        "nombre": "coca cola",
+        "precio": 1.0,
+        "categoria": "bebida",
+        "tipo": "CONSUMO_LOCAL",
+        "stock": 4,
+        "tipo_producto": "Producto"
+    },
+    {
+        "codigo": "12345",
+        "nombre": "caldo",
+        "precio": 2.0,
+        "categoria": "comida",
+        "tipo": "CONSUMO_LOCAL",
+        "stock": 29,
+        "tipo_producto": "Producto"
+    },
+    {
+        "codigo": "3454",
+        "nombre": "Fritada",
+        "precio": 5.0,
+        "categoria": "Comida",
+        "tipo": "CONSUMO_LOCAL",
+        "stock": 6,
+        "tipo_producto": "Producto"
+    },
+    {
+        "codigo": "4535",
+        "nombre": "Maduro Asado",
+        "precio": 1.5,
+        "categoria": "comida",
+        "tipo": "CONSUMO_LOCAL",
+        "stock": 5,
+        "tipo_producto": "Producto"
+    },
+    {
+        "codigo": "4536",
+        "nombre": "Agua Mineral",
+        "precio": 1.5,
+        "categoria": "Bebida",
+        "tipo": "CONSUMO_LOCAL",
+        "stock": 6,
+        "tipo_producto": "Producto"
+    },
+    {
+        "codigo": "2345",
+        "nombre": "caldo de bola",
+        "precio": 3.0,
+        "categoria": "comida",
+        "tipo": "CONSUMO_LOCAL",
+        "stock": 10
+    },
+    {
+        "codigo": "5675",
+        "nombre": "Bolones con chicharron ",
+        "precio": 2.0,
+        "categoria": "comida",
+        "tipo": "CONSUMO_LOCAL",
+        "stock": 2
+    }
+]
